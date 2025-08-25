@@ -1,4 +1,4 @@
-# YF-S201_emulator
+# YF-S201 emulator
 YF-S201 Emulator with Arduino for Hot and Cold Temperature Controller Testing
 
 - This emulator can be used to test temperature controllers that use two YF-S201 flow sensors.
