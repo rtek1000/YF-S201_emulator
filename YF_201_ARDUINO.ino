@@ -14,6 +14,7 @@
 
 // #define TIMER1_OUT_pin 10 // debug only
 
+// (480 L/H) / 60: 8 L/MIN
 #define FLOW_MAX_HZ 65  // Hertz (8l/min: 65.5Hz)
 
 volatile int dif_adc = 0;
