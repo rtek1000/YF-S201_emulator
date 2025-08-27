@@ -9,7 +9,7 @@ YF-S201 Emulator with Arduino for Hot and Cold Temperature Controller Testing
 ![img](https://raw.githubusercontent.com/rtek1000/YF-S201_emulator/refs/heads/main/Water_mixer_tap.png)
 
 ##### Schematic:
-- Note: ATTiny85 is an alternative. To operate with the ATTiny85 in 16MHz PLL, it is necessary to program the Fuses, see [here](https://github.com/rtek1000/ATtiny85_DS18B20_Thermostat).
+- Note: ATTiny85 is an alternative. To operate with the ATTiny85 in 16MHz PLL, it is necessary to program the Fuses, see [here](https://github.com/rtek1000/ATtiny85_DS18B20_Thermostat?tab=readme-ov-file#settings).
 
 ![img](https://raw.githubusercontent.com/rtek1000/YF-S201_emulator/refs/heads/main/YF-S201_emulator.png)
 
