@@ -10,7 +10,7 @@ YF-S201 Emulator with Arduino for Hot and Cold Temperature Controller Testing
 
 ##### Schematic:
 - Notes:
-- - Code for ATMega328, is present in Pro Mini, UNO etc.
+- - Code for ATMega328, is present in Arduino Pro Mini, Arduino UNO etc.
 - - Code for ATTiny85 is an alternative. To operate with the ATTiny85 in 16MHz PLL, it is necessary to program the Fuses, see [here](https://github.com/rtek1000/ATtiny85_DS18B20_Thermostat?tab=readme-ov-file#settings).
 
 ![img](https://raw.githubusercontent.com/rtek1000/YF-S201_emulator/refs/heads/main/YF-S201_emulator.png)
